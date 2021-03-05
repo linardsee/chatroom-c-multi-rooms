@@ -5,8 +5,8 @@ To make a project, type:
 
 make  
 make clean  
-./server <port number>  
-./client <port number>  
+./server port number  
+./client port number  
 
 **SERVER OPTIONS**  
 	PRINT ALL ROOMS -> Show available rooms  
