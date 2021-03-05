@@ -17,7 +17,7 @@ make clean
 	PRINT COMMANDS -> Show this menu  
 	EXIT -> exit server  
   
-CLIENT OPTIONS  
+**CLIENT OPTIONS**  
 	JOIN -> join a room  
 	SHOW -> show all rooms in this server  
 	CREATE -> create a new room  
