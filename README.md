@@ -8,7 +8,7 @@ make clean
 ./server <port number>  
 ./client <port number>  
 
-SERVER OPTIONS  
+**SERVER OPTIONS**  
 	PRINT ALL ROOMS -> Show available rooms  
 	PRINT ONLINE MEMBERS -> Show all the members online  
 	PRINT OFFLINE MEMBERS -> Show all the members offline  
