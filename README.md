@@ -2,6 +2,9 @@
 
 Repository contains multi-room chatroom project.
 To make a project, type:
-# make
-# make clean
+> make
+> make clean
+> ./server <port number>
+> ./client <port number>
+
 
